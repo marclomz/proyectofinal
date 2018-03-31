@@ -1,0 +1,14 @@
+#FondoDiv {    
+    width: 100%;	
+    background-color:#a2abf3;
+}
+#FondoDivfoot {    
+    width: 100%;	
+    background-color:#a2f3c6;
+}
+nav{
+	font-size: large;
+	background-color:#a2f3c6;
+	text-align:center;
+	padding:10px;
+}
